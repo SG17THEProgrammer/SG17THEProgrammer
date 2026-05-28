@@ -12,8 +12,9 @@
 ![](https://streak-stats.demolab.com/?user=SG17THEProgrammer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SG17THEProgrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-----
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SG17THEProgrammer&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SG17THEProgrammer&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
