@@ -12,6 +12,14 @@
 ![](https://streak-stats.demolab.com/?user=SG17THEProgrammer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SG17THEProgrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+# 🎖️Badges
+<img width="120" height="120" alt="gssoc-badge-point_scorer" src="https://github.com/user-attachments/assets/99ef3526-119f-48aa-8b9c-21e6f951db59" />
+<img width="120" height="120" alt="gssoc-badge-bounty_hunter" src="https://github.com/user-attachments/assets/bd0073ec-6b1c-4fd0-8519-dcc086c64ba2" />
+<img width="120" height="120" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/0b2ede81-0123-43b1-a12c-c35cbb2f8f8c" />
+
+
+
 <!-----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SG17THEProgrammer&theme=radical&no-frame=true&no-bg=true&margin-w=4) -->
